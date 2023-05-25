@@ -1,0 +1,5 @@
+git is a version control tool which is used to keep track of the project realted files and directories
+there are many version control tools
+bitbucket
+svn
+cvs etc 
