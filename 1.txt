@@ -3,3 +3,8 @@ there are many version control tools
 bitbucket
 svn
 cvs etc 
+
+git architecture has 3 stages
+workspace
+staging area
+git repo
